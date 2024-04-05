@@ -1,0 +1,48 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Nordeste Brasileiro</title>
+</head>
+<body>
+    <header>
+      
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Antonio_Vaz_island_-_Recife%2C_Pernambuco%2C_Brazil_%28cropped%29.jpg/278px-Antonio_Vaz_island_-_Recife%2C_Pernambuco%2C_Brazil_%28cropped%29.jpg"  alt="Nordeste Turismo"> 
+	    <br>
+		<span>Nordeste Brasileiro - RECIFE</span>
+		<nav>
+ 		  <ul>
+			<li>Pontos Turísticos</li>
+			<li>Passagens</li>
+			<li>Hospedagem</li>
+		  </ul>	
+        </nav>
+    </header>
+	<main>
+	  <h1>Bem-vindo a Recife</h1>
+	  <section>
+		<h2>Pontos Turísticos</h2>
+		<h3>Marco Zero</h3>
+		<p>A praça tem o nome original de Praça Barão do Rio Branco, todavia ficou conhecida como Praça do Marco Zero pelo fato de que nela encontra-se o </p> 
+		<p>quilometro zero das estradas de Pernambuco. É formada por um marco de cor vermelha doado pelo Clube do Automóvel. Na lateral da praça encontra-se </p>
+		<p>a estatua do Barão do Rio Branco em bronze, com 2,80m de altura, do escultor Felix Charpentier. Já no centro pode ser vista a rosa dos ventos do </p>
+		<p>pintor Cícero Dias. Nos períodos de momo a praça funciona como quartel general do carnaval multicultural do Recife.</p>
+		
+	   <img src="https://visit.recife.br/wp-content/uploads/2017/10/marco-zero-fotos-secundarias.png" alt="Marco Zero">	
+	  </section>
+	</main>
+	
+	<footer>
+			 <br>
+		<span>Nordeste Brasileiro(c)</span>
+			 <br>	
+			 <ul>
+			     <li>Facebook</li>
+				 <li>Instagram</li>
+				 <li>Linkedin</li>	
+
+	</footer>
+</body>
+</html>
